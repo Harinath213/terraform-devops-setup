@@ -3,7 +3,7 @@ data "aws_ami" "basic-app" {
     owners = [661279040337]
     filter {
       name = "image-id"
-      values = ["ami-0bb8da24a8877a732"]
+      values = ["ami-0f09af54be678dbb1"]
     }
   
 }
