@@ -17,6 +17,7 @@
 .byebug_history
 .terraform/
 .terraform.lock.hcl
+=======
 
 ## Specific to RubyMotion:
 .dat*
